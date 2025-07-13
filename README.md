@@ -93,7 +93,6 @@ Add more links here as your project grows
 
 
 
-
 ## 🧠 Why This Matters
 
 Modern AI projects often depend on external APIs, raising privacy, latency, and cost concerns. 
