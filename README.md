@@ -3,6 +3,9 @@
 **A modular chatbot powered by a local Large Language Model (LLM), served via Docker, and designed for privacy, portability, and edge deployment.**  
 Ideal for Raspberry Pi or cloud hosting (e.g., AWS), this project runs a Mistral-based LLM backend with a lightweight HTML/JS frontend, all behind an Apache2 reverse proxy.
 
+
+
+
 ---
 
 ## 🚀 Features
@@ -15,6 +18,9 @@ Ideal for Raspberry Pi or cloud hosting (e.g., AWS), this project runs a Mistral
 - ☁️ **Cloud Deployable**: Tested on AWS EC2 and scalable to VPS or local networks.
 - 🔐 **Privacy First**: All processing is done locally—your data never leaves your machine.
 
+
+
+
 ---
 
 ## 🧱 Tech Stack
@@ -24,6 +30,10 @@ Ideal for Raspberry Pi or cloud hosting (e.g., AWS), this project runs a Mistral
 - **Docker** & **Docker Compose**
 - **Apache2** reverse proxy with SSL
 - **HTML/CSS/JS** frontend
+
+
+
+
 
 ---
 
@@ -40,6 +50,8 @@ chatBot/
 ├── docker-compose.yml    # Service orchestration
 └── README.md
 ```
+
+
 
 ---
 ## 📌 Documentation
@@ -80,11 +92,18 @@ Add more links here as your project grows
 
 
 
+
 ## 🧠 Why This Matters
 
-Modern AI projects often depend on external APIs, raising privacy, latency, and cost concerns. T
-his project is built for local-first, edge-compatible deployment—a skillset highly relevant in 
+Modern AI projects often depend on external APIs, raising privacy, latency, and cost concerns. 
+This project is built for local-first, edge-compatible deployment—a skillset highly relevant in 
 DevOps, MLOps, and systems engineering roles, including quant firms, infrastructure teams, or R&D environments.
+
+
+
+
+
+
 ---
 ## 🤝 Contributors
 
