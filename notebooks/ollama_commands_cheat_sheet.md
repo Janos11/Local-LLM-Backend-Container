@@ -78,7 +78,7 @@ POST http://localhost:11434/api/generate
 ```json
 {
   "model": "llama3",
-  "prompt": "What is the capital of France?"
+  "prompt": "What is the capital of Hungary?"
 }
 ```
 
