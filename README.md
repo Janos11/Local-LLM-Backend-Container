@@ -56,12 +56,12 @@ chatBot/
 ---
 ## 📌 Documentation
 
-| Section                     | 	Link                                                                                                 |
-|-----------------------------|-------------------------------------------------------------------------------------------------------|
-| 🔍 In-Depth Architecture    | (coming soon)                                                                                         |
-| ⚙️ Deployment Guide	        | (coming soon)                                                                                         |
-| 🧪 Testing & Benchmarks	    | (coming soon)                                                                                         |
-| 🗂️ Useful git commands     |  [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md) |
+| Section                   | 	Link                                                                                                |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| 🦙 Useful ollama commands | [ollama_commands_cheat_sheet.md](notebooks/ollama_commands_cheat_sheet.md)                           |
+| ⚙️ Deployment Guide	      | [ollama_setup.md](notebooks/ollama_setup.md)                                                                        |
+| 🧪 Testing & Benchmarks	  | (coming soon)                                                                                        |
+| 🗂️ Useful git commands   | [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md) |
 
 
 
@@ -112,19 +112,25 @@ DevOps, MLOps, and systems engineering roles, including quant firms, infrastruct
   <tr>
     <td><strong>János Rostás</strong></td>
     <td>
-      👨‍💻 Electronic & Computer Engineer<br>
-      🛠️ Tinkerer with a Purpose<br>
-      🐳 Docker Enthusiast<br>
+      👨‍💻 Electronic & Computer Engineer (Final Year Student)<br>
+      🧠 Passionate about AI, LLMs, and RAG systems<br>
+      🐳 Docker & Linux Power User<br>
+      🔧 Raspberry Pi Builder | Automation Fanatic<br>
+      💻 Git & GitHub DevOps Explorer<br>
+      📦 Loves tinkering with Ollama, containerized models, and APIs<br>
       🌐 <a href="https://janosrostas.co.uk" target="_blank">janosrostas.co.uk</a><br>
-      🔗 <a href="https://www.linkedin.com/in/janos-rostas/" target="_blank">LinkedIn</a>
+      🔗 <a href="https://www.linkedin.com/in/janos-rostas/" target="_blank">LinkedIn</a><br>
+      🐙 <a href="https://github.com/Janos11" target="_blank">GitHub</a> |
+      🐋 <a href="https://hub.docker.com/u/janos11" target="_blank">Docker Hub</a>
     </td>
   </tr>
   <tr>
     <td><strong>ChatGPT</strong></td>
     <td>
       🤖 AI Pair Programmer by OpenAI<br>
-      💡 Supports brainstorming, prototyping, and debugging<br>
-      📚 Backed by years of programming knowledge and best practices
+      💡 Collaborates on brainstorming, prototyping, and debugging<br>
+      📚 Built on a foundation of global programming knowledge<br>
+      🔍 Assists with everything from low-level scripting to high-level LLM orchestration
     </td>
   </tr>
 </table>
