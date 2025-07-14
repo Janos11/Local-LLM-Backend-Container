@@ -36,6 +36,7 @@ docker exec -it ollama ollama run tinyllama
 |Completing simple sentences |	Accurate Q&A |
 |Playing with prompt formats |	Factual knowledge |
 |Testing infrastructure/setup |	Long-term memory / dialogue |
+
 If you just need to demonstrate a local LLM running on a Pi (as proof of concept), TinyLlama is perfect. But if you want reliable responses, you’ll need a larger or better-tuned model (which your Pi likely can’t run alone).
 
 ## 💡 Next Steps
