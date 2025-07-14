@@ -96,17 +96,6 @@ POST http://localhost:11434/api/generate
 
 
 
----
-
-## 🧪 Advanced
-
-| Command | Description |
-|--------|-------------|
-| `ollama create my-model -f Modelfile` | Build custom models (inside container) |
-| `ollama run llama3 --prompt "Hello"` | Start with custom prompt |
-
-
-
 
 ---
 
