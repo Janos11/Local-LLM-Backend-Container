@@ -70,12 +70,12 @@ chatBot/
 ---
 ## 📌 Documentation
 
-| Section                   | 	Link                                                                                                |
-|---------------------------|------------------------------------------------------------------------------------------------------|
-| 🦙 Useful ollama commands | [ollama_commands_cheat_sheet.md](notebooks/ollama_commands_cheat_sheet.md)                           |
-| ⚙️ Deployment Guide	      | [ollama_setup.md](notebooks/ollama_setup.md)                                                                        |
-| 🧪 Testing & Benchmarks	  | (coming soon)                                                                                        |
-| 🗂️ Useful git commands   | [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md) |
+| Section                         | 	Link                                                                                                |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| 🦙 Useful ollama commands       | [ollama_commands_cheat_sheet.md](notebooks/ollama_commands_cheat_sheet.md)                           |
+| ⚙️ Deployment Guide on MacBook	 | [ollama_setup_on_MacBook.md](notebooks/ollama_setup.md)                                              |
+| 🧪 Testing & Benchmarks	        | (coming soon)                                                                                        |
+| 🗂️ Useful git commands         | [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md) |
 
 
 
