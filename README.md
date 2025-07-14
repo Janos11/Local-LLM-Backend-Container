@@ -7,11 +7,17 @@ Ideal for Raspberry Pi or cloud hosting (e.g., AWS), this project runs a Mistral
 
 
 ---
-[![Watch the demo video on LinkedIn](screenshots/Screenshot_2025-07-14_at_12.21.17.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7350485059256172545/)
-[![Watch the demo video on LinkedIn](screenshots/Screenshot_2025-07-14_at_13.53.00.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7350485059256172545/)
+
 <p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7350485059256172545/">Watch the demo video on LinkedIn</a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7350485059256172545/" target="_blank" rel="noopener noreferrer">
+    <img src="screenshots/Screenshot_2025-07-14_at_12.21.17.png" alt="Watch the demo on LinkedIn" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7350485059256172545/" target="_blank" rel="noopener noreferrer">▶️ Watch the demo video on LinkedIn</a>
+</p>
+
 
 
 ---
