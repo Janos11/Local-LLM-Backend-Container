@@ -73,8 +73,8 @@ chatBot/
 | Section                              | 	Link                                                                                                |
 |--------------------------------------|------------------------------------------------------------------------------------------------------|
 | 🦙 Useful ollama commands            | [ollama_commands_cheat_sheet.md](notebooks/ollama_commands_cheat_sheet.md)                           |
-| ⚙️ Deployment Guide on MacBook	      | [ollama_setup_on_MacBook.md](notebooks/ollama_setup_on_MacBook.md.md)                                              |
-| ⚙️ Deployment Guide on Raspberry Pi	 | [tinyllama_setup_on_raspberry_pi.md](notebooks/tinyllama_setup_on_raspberry_pi.md.md)                                              |
+| ⚙️ Deployment Guide on MacBook	      | [ollama_setup_on_MacBook.md](notebooks/ollama_setup_on_MacBook.md)                                              |
+| ⚙️ Deployment Guide on Raspberry Pi	 | [tinyllama_setup_on_raspberry_pi.md](notebooks/tinyllama_setup_on_raspberry_pi.md)                                           |
 | 🧪 Testing & Benchmarks	             | (coming soon)                                                                                        |
 | 🗂️ Useful git commands              | [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md) |
 
